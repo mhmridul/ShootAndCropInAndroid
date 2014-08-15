@@ -1,0 +1,7 @@
+This is shoot and crop apps in anroid platfrom. This not so serious apps just for fun.
+Uses:
+1. download this apps and inport as a android existing project.
+2. press in the box choose image from your Gallery.
+3. Crop image and press save.
+
+Notice: Please don`t use in Tab. This is only for Mobile.
